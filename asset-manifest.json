@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Filmland/static/css/main.58e1373c.css",
+    "main.js": "/Filmland/static/js/main.ce835420.js",
+    "index.html": "/Filmland/index.html",
+    "static/media/search.svg": "/Filmland/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.58e1373c.css.map": "/Filmland/static/css/main.58e1373c.css.map",
+    "main.ce835420.js.map": "/Filmland/static/js/main.ce835420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e1373c.css",
+    "static/js/main.ce835420.js"
+  ]
+}
